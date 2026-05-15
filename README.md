@@ -1,1 +1,1 @@
-![Directus Dashboard](/src/assets/test.png)
+![Directus Dashboard](./assets/test.png)
