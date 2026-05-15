@@ -1,0 +1,1 @@
+![Directus Dashboard](/src/assets/test.png)
